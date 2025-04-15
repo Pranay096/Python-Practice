@@ -1,5 +1,0 @@
-a=("my is name is ishaan")
-a.split()
-s=list(a)
-f=s.sort(reverse=True)
-print(f[0])
